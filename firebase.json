@@ -1,6 +1,7 @@
 {
   "hosting": {
     "public": "Systems-that-scale-newsletter",
+    "cleanUrls": true,
     "ignore": [
       "firebase.json",
       "**/.*",

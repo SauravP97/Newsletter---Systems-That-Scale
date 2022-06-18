@@ -27,8 +27,8 @@
     border-radius: 4px;
     padding: 5px;
     font-size: 16px;
-    background: #11539f;
-    color: white;
+    background: #11539f !important;
+    color: white !important;
 }
 .mobile-subscribe-btn {
     border-radius: 4px;
